@@ -37,8 +37,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "凡奢联盟",
+        "meta_descr": "凡奢联盟",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
